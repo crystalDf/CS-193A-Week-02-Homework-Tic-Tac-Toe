@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="head">Tic-Tac-Toe!</string>
+    <string name="with_friend">With Friend</string>
+    <string name="computer_first">Computer First</string>
+    <string name="computer_second">Computer Second</string>
+</resources>
